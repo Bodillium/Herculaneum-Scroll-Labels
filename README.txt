@@ -1,6 +1,6 @@
 # Herculaneum Scroll Labels
 
-<img src="images/predictions_20241113090990_nbscroll5model5_cropped.png" width="800"/>
+<img src="Images/predictions_20241113090990_nbscroll5model5_cropped.png" width="800"/>
 
 This repository contains labels used to train Machine Learning (ML) models that detect ink in the virtually unrolled Herculaneum Scrolls. These labels (in the form of hand drawn letters and letter-shapes) are hypotheses of where the ink is in the scroll. Better labels can lead to be better ML images and therefore more recovered text! The exploration of this scroll is at a very early stage, so there is much room for improvement!
 
